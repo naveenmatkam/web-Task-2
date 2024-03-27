@@ -116,7 +116,7 @@ footer p {
   <section id="product-details">
     <div class="product-image">
       <!-- Placeholder image -->
-      <img src="C:\Users\andri\Downloads\iPhone-14-Pro.jpg" alt="iPhone 14">
+      <img src="iPhone-14-Pro.jpg" alt="iPhone 14">
     </div>
     <div class="product-info">
       <h2>Experience the Future</h2>
